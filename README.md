@@ -1,1 +1,1 @@
-# prmeiro hello world em C
+# primeiro hello world em C
